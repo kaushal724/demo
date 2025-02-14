@@ -1,2 +1,3 @@
 # demo
-this is my first get repo
+this is my first get repo.
+Author kaushal
